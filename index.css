@@ -16,6 +16,8 @@ body               { font-family: sans-serif; text-align: center }
 h1, h2             { font-size: 24px }
 body, h3           { font-size: 16px }
 h3, h4             { font-weight: normal }
+.about h3          { font-weight: bold }
+.about p           { font-style: italic }
 ul                 { list-style-type: none }
 em                 { white-space: nowrap }
 .unfinished        { text-decoration: line-through }
@@ -29,6 +31,7 @@ h1, h4             { border-color: #d5c5b5 }
 
 body.albums        { background-color: #252535 }
 body.books         { background-color: #351525 }
+body.about         { background-color: #a54515 }
 body.error         { background-color: #952535 }
 
 .good h1, .bad h1  { border-color: transparent }
@@ -38,3 +41,4 @@ body.error         { background-color: #952535 }
 .good h2           { color: #358535 }
 .good img          { border-color: #358535 }
 .recommended       { color: #e5d5a5 }
+.about h3          { color: #e5d5a5 }
