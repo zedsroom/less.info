@@ -33,6 +33,7 @@ body.albums        { background-color: #252535 }
 body.books         { background-color: #351525 }
 body.about         { background-color: #a54515 }
 body.error         { background-color: #952535 }
+body.gigs          { background-color: #459555 }
 
 .good h1, .bad h1  { border-color: transparent }
 .good h2, .bad h2  { background-color: #d5c5b5 }
@@ -41,4 +42,5 @@ body.error         { background-color: #952535 }
 .good h2           { color: #358535 }
 .good img          { border-color: #358535 }
 .recommended       { color: #e5d5a5 }
+.performed         { color: #f5e5a5 }
 .about h3          { color: #e5d5a5 }
